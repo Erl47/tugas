@@ -1,0 +1,6 @@
+{
+    "require": {
+        "livewire/livewire": "^3.5",
+        "jeroennoten/laravel-adminlte": "^3.11"
+    }
+}
